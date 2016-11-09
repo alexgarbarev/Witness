@@ -19,6 +19,6 @@
   "homepage" : "https:\/\/github.com\/njdehoog\/Witness",
   "name" : "Witness",
   "platforms" : {
-    "osx" : "10.9"
+    "osx" : "10.10"
   }
 }
