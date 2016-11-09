@@ -1,24 +1,24 @@
 {
-  "name": "Witness",
-  "version": "0.1.2",
-  "summary": " Witness provides a wrapper around the File System Events API for OS X",
-  "homepage": "https://github.com/njdehoog/Witness",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
+  "summary" : " Witness provides a wrapper around the File System Events API for OS X",
+  "source" : {
+    "git" : "https:\/\/github.com\/njdehoog\/Witness.git",
+    "tag" : "0.1.2"
   },
-  "authors": {
-    "Niels de Hoog": "njdehoog@gmail.com"
+  "authors" : {
+    "Niels de Hoog" : "njdehoog@gmail.com"
   },
-  "source": {
-    "git": "https://github.com/njdehoog/Witness.git",
-    "tag": "0.1.2"
-  },
-  "source_files": [
-    "Witness/*.swift"
+  "source_files" : [
+    "Witness\/*.swift"
   ],
-  "platforms": {
-    "osx": "10.9",
+  "requires_arc" : true,
+  "version" : "0.1.2",
+  "license" : {
+    "type" : "MIT",
+    "file" : "LICENSE"
   },
-  "requires_arc": true
+  "homepage" : "https:\/\/github.com\/njdehoog\/Witness",
+  "name" : "Witness",
+  "platforms" : {
+    "osx" : "10.9"
+  }
 }
